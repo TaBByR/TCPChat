@@ -20,7 +20,7 @@ Follow these steps to run the TPC Chat application:
 
    ```bash
    git clone https://github.com/TaBByR/TCPChat.git
-   cd TPC-Chat
+   cd TCPChat
    ```
 2. **Run the main class in your IDE**
 
